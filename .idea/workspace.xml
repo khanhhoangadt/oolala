@@ -2,71 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bb6dddf8-00c9-4dec-acca-98754c5da4e9" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/templates/CSS/FONT/_notes/dwsync.xml" afterPath="$PROJECT_DIR$/static/CSS/FONT/_notes/dwsync.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/templates/CSS/FONT/opensans-bold-webfont.eot" afterPath="$PROJECT_DIR$/static/CSS/FONT/opensans-bold-webfont.eot" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/templates/CSS/FONT/opensans-bold-webfont.svg" afterPath="$PROJECT_DIR$/static/CSS/FONT/opensans-bold-webfont.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/templates/CSS/FONT/opensans-bold-webfont.ttf" afterPath="$PROJECT_DIR$/static/CSS/FONT/opensans-bold-webfont.ttf" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/templates/CSS/FONT/opensans-bold-webfont.woff" afterPath="$PROJECT_DIR$/static/CSS/FONT/opensans-bold-webfont.woff" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/templates/CSS/FONT/opensans-bold-webfont.woff2" afterPath="$PROJECT_DIR$/static/CSS/FONT/opensans-bold-webfont.woff2" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/templates/CSS/FONT/opensans-regular-webfont.eot" afterPath="$PROJECT_DIR$/static/CSS/FONT/opensans-regular-webfont.eot" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/templates/CSS/FONT/opensans-regular-webfont.svg" afterPath="$PROJECT_DIR$/static/CSS/FONT/opensans-regular-webfont.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/templates/CSS/FONT/opensans-regular-webfont.ttf" afterPath="$PROJECT_DIR$/static/CSS/FONT/opensans-regular-webfont.ttf" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/templates/CSS/FONT/opensans-regular-webfont.woff" afterPath="$PROJECT_DIR$/static/CSS/FONT/opensans-regular-webfont.woff" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/templates/CSS/FONT/opensans-regular-webfont.woff2" afterPath="$PROJECT_DIR$/static/CSS/FONT/opensans-regular-webfont.woff2" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/templates/CSS/FONT/opensans-semibold-webfont.eot" afterPath="$PROJECT_DIR$/static/CSS/FONT/opensans-semibold-webfont.eot" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/templates/CSS/FONT/opensans-semibold-webfont.svg" afterPath="$PROJECT_DIR$/static/CSS/FONT/opensans-semibold-webfont.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/templates/CSS/FONT/opensans-semibold-webfont.ttf" afterPath="$PROJECT_DIR$/static/CSS/FONT/opensans-semibold-webfont.ttf" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/templates/CSS/FONT/opensans-semibold-webfont.woff" afterPath="$PROJECT_DIR$/static/CSS/FONT/opensans-semibold-webfont.woff" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/templates/CSS/FONT/opensans-semibold-webfont.woff2" afterPath="$PROJECT_DIR$/static/CSS/FONT/opensans-semibold-webfont.woff2" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/templates/CSS/FONT/socialico-webfont.eot" afterPath="$PROJECT_DIR$/static/CSS/FONT/socialico-webfont.eot" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/templates/CSS/FONT/socialico-webfont.svg" afterPath="$PROJECT_DIR$/static/CSS/FONT/socialico-webfont.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/templates/CSS/FONT/socialico-webfont.ttf" afterPath="$PROJECT_DIR$/static/CSS/FONT/socialico-webfont.ttf" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/templates/CSS/FONT/socialico-webfont.woff" afterPath="$PROJECT_DIR$/static/CSS/FONT/socialico-webfont.woff" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/templates/CSS/FONT/socialico-webfont.woff2" afterPath="$PROJECT_DIR$/static/CSS/FONT/socialico-webfont.woff2" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/templates/CSS/FONT/socialico_plus-webfont.eot" afterPath="$PROJECT_DIR$/static/CSS/FONT/socialico_plus-webfont.eot" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/templates/CSS/FONT/socialico_plus-webfont.svg" afterPath="$PROJECT_DIR$/static/CSS/FONT/socialico_plus-webfont.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/templates/CSS/FONT/socialico_plus-webfont.ttf" afterPath="$PROJECT_DIR$/static/CSS/FONT/socialico_plus-webfont.ttf" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/templates/CSS/FONT/socialico_plus-webfont.woff" afterPath="$PROJECT_DIR$/static/CSS/FONT/socialico_plus-webfont.woff" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/templates/CSS/FONT/socialico_plus-webfont.woff2" afterPath="$PROJECT_DIR$/static/CSS/FONT/socialico_plus-webfont.woff2" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/templates/CSS/_notes/dwsync.xml" afterPath="$PROJECT_DIR$/static/CSS/_notes/dwsync.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/templates/CSS/animate.css" afterPath="$PROJECT_DIR$/static/CSS/animate.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/templates/CSS/spore-animate.css" afterPath="$PROJECT_DIR$/static/CSS/spore-animate.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/templates/CSS/spore-font.css" afterPath="$PROJECT_DIR$/static/CSS/spore-font.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/templates/IMG/_notes/dwsync.xml" afterPath="$PROJECT_DIR$/static/IMG/_notes/dwsync.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/templates/IMG/cross-01.png" afterPath="$PROJECT_DIR$/static/IMG/cross-01.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/templates/IMG/cross.svg" afterPath="$PROJECT_DIR$/static/IMG/cross.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/templates/IMG/gallery-in-a-page.jpg" afterPath="$PROJECT_DIR$/static/IMG/gallery-in-a-page.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/templates/IMG/home.svg" afterPath="$PROJECT_DIR$/static/IMG/home.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/templates/IMG/icone1.svg" afterPath="$PROJECT_DIR$/static/IMG/icone1.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/templates/IMG/image1-01.jpg" afterPath="$PROJECT_DIR$/static/IMG/image1-01.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/templates/IMG/image2-01.jpg" afterPath="$PROJECT_DIR$/static/IMG/image2-01.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/templates/IMG/image2-01.png" afterPath="$PROJECT_DIR$/static/IMG/image2-01.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/templates/IMG/image3-01.jpg" afterPath="$PROJECT_DIR$/static/IMG/image3-01.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/templates/IMG/image4-01.jpg" afterPath="$PROJECT_DIR$/static/IMG/image4-01.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/templates/IMG/image5-01.jpg" afterPath="$PROJECT_DIR$/static/IMG/image5-01.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/templates/IMG/image6-01.jpg" afterPath="$PROJECT_DIR$/static/IMG/image6-01.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/templates/IMG/logo.svg" afterPath="$PROJECT_DIR$/static/IMG/logo.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/templates/IMG/logotop.svg" afterPath="$PROJECT_DIR$/static/IMG/logotop.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/templates/IMG/plus.svg" afterPath="$PROJECT_DIR$/static/IMG/plus.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/templates/IMG/small-logo-01.png" afterPath="$PROJECT_DIR$/static/IMG/small-logo-01.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/templates/IMG/trame.svg" afterPath="$PROJECT_DIR$/static/IMG/trame.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/templates/IMG/triangle.svg" afterPath="$PROJECT_DIR$/static/IMG/triangle.svg" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app.py" afterPath="$PROJECT_DIR$/app.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/index.html" afterPath="$PROJECT_DIR$/templates/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/spore-cat-hotpost.html" afterPath="$PROJECT_DIR$/templates/spore-cat-hotpost.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/spore-cat-image.html" afterPath="$PROJECT_DIR$/templates/spore-cat-image.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/spore-cat-video.html" afterPath="$PROJECT_DIR$/templates/spore-cat-video.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/spore-post1.html" afterPath="$PROJECT_DIR$/templates/spore-post1.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/spore-post2.html" afterPath="$PROJECT_DIR$/templates/spore-post2.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/spore-post3.html" afterPath="$PROJECT_DIR$/templates/spore-post3.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/spore-post4.html" afterPath="$PROJECT_DIR$/templates/spore-post4.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/spore-post5.html" afterPath="$PROJECT_DIR$/templates/spore-post5.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/spore-post6.html" afterPath="$PROJECT_DIR$/templates/spore-post6.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/spore-post7.html" afterPath="$PROJECT_DIR$/templates/spore-post7.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/spore-post8.html" afterPath="$PROJECT_DIR$/templates/spore-post8.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/spore-post9.html" afterPath="$PROJECT_DIR$/templates/spore-post9.html" />
     </list>
     <ignored path="WebSession.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -80,7 +18,7 @@
   </component>
   <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
   <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/oolala$app.coverage" NAME="app Coverage Results" MODIFIED="1464875728048" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/oolala$app.coverage" NAME="app Coverage Results" MODIFIED="1464876877791" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/WebSession$on_tù_tì.coverage" NAME="oẳn tù tì Coverage Results" MODIFIED="1464868786971" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Downloads" />
     <SUITE FILE_PATH="coverage/WebSession$WebSession.coverage" NAME="WebSession Coverage Results" MODIFIED="1464871604053" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
   </component>
@@ -123,21 +61,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/templates/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="122">
+              <caret line="1127" column="22" selection-start-line="1127" selection-start-column="22" selection-end-line="1127" selection-end-column="22" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="app.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="app.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="77">
-              <caret line="15" column="0" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+            <state relative-caret-position="213">
+              <caret line="29" column="12" selection-start-line="29" selection-start-column="12" selection-end-line="29" selection-end-column="12" />
               <folding />
             </state>
           </provider>
@@ -164,6 +102,7 @@
         <option value="$PROJECT_DIR$/WebSession.py" />
         <option value="$PROJECT_DIR$/templates/movie3.html" />
         <option value="$PROJECT_DIR$/app.py" />
+        <option value="$PROJECT_DIR$/templates/index.html" />
       </list>
     </option>
   </component>
@@ -597,7 +536,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1378" height="754" extended-state="1" />
+    <frame x="-8" y="-8" width="1378" height="754" extended-state="0" />
     <editor active="false" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.12822458" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -726,18 +665,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/templates/index.html">
+    <entry file="file://$PROJECT_DIR$/app.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="213">
+          <caret line="29" column="12" selection-start-line="29" selection-start-column="12" selection-end-line="29" selection-end-column="12" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app.py">
+    <entry file="file://$PROJECT_DIR$/templates/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="77">
-          <caret line="15" column="0" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+        <state relative-caret-position="122">
+          <caret line="1127" column="22" selection-start-line="1127" selection-start-column="22" selection-end-line="1127" selection-end-column="22" />
           <folding />
         </state>
       </provider>

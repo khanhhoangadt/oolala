@@ -1116,12 +1116,17 @@ iframe {
             	<ul>
             		<li><div id="A3-left-title-1"><a href="spore-post1.html">Post a Youtube video</a></div></li>
             	</ul>
-                <div id="A3-left-text-1">Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam.Lorem ipsum dolor sit amet, consectetuer adipiscing elit.</div>  
+                <div id="A3-left-text-1">Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam.Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
+
+                </div>
             </div>
-            
+
+
+            {% for movie in movie_list %}
             <div id="wrapper-post2" class="text-part-A5">
             	<a href="spore-post2.html"><div id="A3-left-image-2"><img src="../static/IMG/image1-01.jpg" alt="post an image with animation" title="post an image with animation" class="grow"/></div></a>
-            
+                {{ movie.title }}
+                <img src="{{ movie.img }}">
             	<div id="wrapper-A3-left-date-2">
             		<div id="A3-left-date-2">21 nov, 2014</div>
                 	<div id="A3-left-icone-2"></div>
@@ -1131,7 +1136,9 @@ iframe {
             	</ul>
             	<div id="A3-left-text-2">Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam.</div>  
             </div>
-            
+            {% endfor %}
+
+
              <div id="wrapper-post3" class="text-part-A5">
             	<a href="spore-post3.html"><div id="A3-left-image-3"><img src="../static/IMG/image6-01.jpg" alt="Auto-resized image" title="Auto-resized image" class="grow"/></div></a>
             

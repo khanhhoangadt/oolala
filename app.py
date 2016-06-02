@@ -28,7 +28,7 @@ def get_movie():
     return render_template('movie.html')
 @app.route('/')
 def index():
-    return render_template('index.html')
+    return render_template('index.html',movie_list = list_movie)
 @app.route('/movie2')
 def get_movie2():
     return render_template('movie2.html',title = "old dog",img = "http://www.4licensingcorp.com/wp-content/uploads/2013/08/the_dog_1-516x355.jpg")
